@@ -8,6 +8,6 @@
 
 target/
 
-.settings/
-.project
-.classpath
+/bin/
+
+rules.txt
